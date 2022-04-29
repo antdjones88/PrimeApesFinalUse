@@ -341,7 +341,7 @@
                                 return r.a.wrap((function(e) {
                                     for (;;) switch (e.prev = e.next) {
                                         case 0:
-                                            return j.a.init("510268440562261"), x.a.send("pageview"), e.next = 4, k();
+                                            return j.a.init("3040733269473489"), x.a.send("pageview"), e.next = 4, k();
                                         case 4:
                                             t = e.sent, this.setState({
                                                 web3: new f.a(window.ethereum),
@@ -765,7 +765,7 @@
                                 return r.a.wrap((function(e) {
                                     for (;;) switch (e.prev = e.next) {
                                         case 0:
-                                            return j.a.init("510268440562261"), x.a.send("pageview"), e.next = 4, k();
+                                            return j.a.init("3040733269473489"), x.a.send("pageview"), e.next = 4, k();
                                         case 4:
                                             t = e.sent, this.setState({
                                                 web3: new f.a(window.ethereum),
@@ -1117,7 +1117,7 @@
                                         case 0:
                                             return setTimeout((function() {
                                                 window.scrollTo(0, 0)
-                                            }), 100), s = null === (t = this.props) || void 0 === t || null === (n = t.location) || void 0 === n || null === (a = n.state) || void 0 === a ? void 0 : a.fad, j.a.init("510268440562261"), x.a.send("pageview"), e.next = 6, k();
+                                            }), 100), s = null === (t = this.props) || void 0 === t || null === (n = t.location) || void 0 === n || null === (a = n.state) || void 0 === a ? void 0 : a.fad, j.a.init("3040733269473489"), x.a.send("pageview"), e.next = 6, k();
                                         case 6:
                                             i = e.sent, this.setState({
                                                 fad: s,
